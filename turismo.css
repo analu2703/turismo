@@ -1,0 +1,28 @@
+.menu{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(123, 255, 209, 0.53);
+    padding: 20px ;
+}
+.botoes1{
+    padding: 10px ;
+}
+.botoes2{
+    padding: 10px ;
+}
+.botoes3{
+    padding: 10px ;
+}
+
+body{
+    background-color: rgba(195, 255, 234, 0.53);
+}
+
+.mapinha{
+    text-align: center;
+}
+
+.imagens, img{
+    text-align: center;
+    padding: 40px;
+}
